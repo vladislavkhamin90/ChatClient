@@ -56,4 +56,5 @@ HomeChat Client - это приложение для обмена сообщен
 
 // Замените на ваш IP-адрес сервера
 val url = "wss://ВАШ_IP_АДРЕС:8443/chat?userId=$userId&username=$username"
+
 [Сервер](https://github.com/vladislavkhamin90/ktor-websocket)
